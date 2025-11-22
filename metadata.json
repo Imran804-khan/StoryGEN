@@ -1,0 +1,5 @@
+{
+  "name": "StoryGen AI",
+  "description": "Transform your scripts into visual storyboards using advanced Gemini models. Features script analysis, high-fidelity image generation, and an AI production assistant chatbot.",
+  "requestFramePermissions": []
+}
